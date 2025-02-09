@@ -1,1 +1,2 @@
 # Numerical-Analysis
+This repo contains a Jupyter notebook for the course "Numerical Analysis" of the 4th semester of the Electrical and Computer Engineering Department of Aristotle University of Thessaloniki. It contains an implementation of an extension of Newton's method for solving equations of one variable and an implementation of the Runge-Kutta method (4th order) for modeling the emotions between two people.
